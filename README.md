@@ -1,1 +1,2 @@
-# vsem_practice_sessionn
+# sem v practice session 
+today we revised  C language basic  foundation 
